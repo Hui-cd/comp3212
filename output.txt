@@ -1,0 +1,33 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+tr|O96791|O96791_DROME      NVIAMRNLPCLGTAGGSGLGGIAGKPSPTMEAVEASTASHPHSTSSYFATTYYHLTDDEC	60
+sp|P63015|PAX6_MOUSE        --------------------------------------------------------MQNS	4
+                                                                                     ::.
+
+tr|O96791|O96791_DROME      HSGVNQLGGVFVGGRPLPDSTRQKIVELAHSGARPCDISRI-------------------	101
+sp|P63015|PAX6_MOUSE        HSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISRILQVSNGCVSKILGRYYETG	64
+                            ************.****************************                   
+
+tr|O96791|O96791_DROME      ------------------------------------------------------------	101
+sp|P63015|PAX6_MOUSE        SIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSIN	124
+                                                                                        
+
+tr|O96791|O96791_DROME      ------------------------------------------------------------	101
+sp|P63015|PAX6_MOUSE        RVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRPGWYPGTSVPGQPTQDGCQQQEGGG	184
+                                                                                        
+
+tr|O96791|O96791_DROME      ------------------------------------------------------------	101
+sp|P63015|PAX6_MOUSE        ENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLA	244
+                                                                                        
+
+tr|O96791|O96791_DROME      ------------------------------------------------------------	101
+sp|P63015|PAX6_MOUSE        AKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTT	304
+                                                                                        
+
+tr|O96791|O96791_DROME      ------------------------------------------------------------	101
+sp|P63015|PAX6_MOUSE        PVSSFTSGSMLGRTDTALTNTYSALPPMPSFTMANNLPMQPPVPSQTSSYSCMLPTSPSV	364
+                                                                                        
+
+tr|O96791|O96791_DROME      ----------------------------------------------------------	101
+sp|P63015|PAX6_MOUSE        NGRSYDTYTPPHMQTHMNSQPMGTSGTTSTGLISPGVSVPVQVPGSEPDMSQYWPRLQ	422
